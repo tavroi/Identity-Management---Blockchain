@@ -133,7 +133,7 @@ Alice is ready to start shopping!
 ### Installation 
 ```
   # 
-  git clone https://github.com/tavroi/blockchain-identity &&
+  git clone https://github.com/tavroi/Identity-Management-Blockchain &&
   cd blockchain-identity                                      &&
   nvm use v9.11.1 && yarn install
 ```

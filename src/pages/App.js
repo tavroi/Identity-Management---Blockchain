@@ -144,7 +144,7 @@ class App extends Component {
               </a>
             </div>
             <div className="right">
-              <a href="https://github.com/tavroi/digital-identity">
+              <a href="https://github.com/tavroi/Identity-Management-Blockchain">
                 <i className="fa fa-lg fa-github" />
               </a>
               <Versions />
